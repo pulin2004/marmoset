@@ -1,0 +1,1 @@
+${user.nickName}你好，已为你充入${preferentAmount/100}元迎新优惠，快去预约心仪的咨询师吧。

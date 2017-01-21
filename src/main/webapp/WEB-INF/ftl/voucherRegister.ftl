@@ -1,0 +1,1 @@
+您已使用${msg.mobilePhone.mobileNo}（手机号）在【顾小烦】成功领取${voucherAmount / 100}元优惠券，请立即下载app，直接登录使用。【官网】http://www.guxiaofan.com
