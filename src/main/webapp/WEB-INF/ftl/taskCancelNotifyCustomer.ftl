@@ -1,1 +1,0 @@
-${taskStartTime?number_to_datetime?string("yyyy年MM月dd日 HH:mm")}－${taskEndTime?number_to_datetime?string("HH:mm")}的预约已被取消。

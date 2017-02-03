@@ -1,1 +1,0 @@
-您好，我是富土康${teamId}号流水线的工人，我叫${username},我的法文名叫${franceName}。

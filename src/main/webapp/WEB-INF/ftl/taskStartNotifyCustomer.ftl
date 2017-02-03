@@ -1,2 +1,0 @@
-<#if (task.productSpecifications.productId == "PRODUCT006")>你已预约${task.startTime?number_to_datetime?string("yyyy-MM-dd HH:mm")}－${task.endTime?number_to_datetime?string("HH:mm")}与咨询师${counselor.nickName}进行${task.productSpecifications.maxMinute * task.num / 60}小时线下咨询，咨询地点：静安区江宁路631号静安优库中心315室，若有疑问请拨打客服电话021-51135003。
-<#else>你已预约${task.startTime?number_to_datetime?string("yyyy-MM-dd HH:mm")}－${task.endTime?number_to_datetime?string("HH:mm")}进行${task.productSpecifications.maxMinute * task.num}分钟${task.productSpecifications.specification}，咨询师${counselor.nickName}会准时在线等候你。</#if>
